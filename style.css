@@ -1,0 +1,37 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: Papyrus;
+    color: purple;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+
+}
+
+li {
+    display: inline-block;
+    padding: 16px;
+    background-color: grey;
+    margin: 0;
+    
+}
+
+li:hover {
+    background-color: #aaa;
+}
+
+.nav {
+    color: black;
+}
+
+
+footer {
+    background-color: #DDD;
+    padding: 16px;
+    text-align: center;
+}
+
+.footer {
+    color: #555;
+}
